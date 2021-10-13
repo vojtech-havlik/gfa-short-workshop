@@ -95,6 +95,9 @@ if (hp <= 0) {
 */
 
 /* YOUR CODE BELONGS HERE - ZDE PATŘÍ VÁŠ KÓD */
+let secondsInADay = 24 * 60 * 60;
+let currentYear = 2021;
+print(secondsInADay / currentYear);
 
 /*
   VARIABLE - TASKS:
@@ -132,6 +135,11 @@ if (hp <= 0) {
 */
 
 /* YOUR CODE BELONGS HERE - ZDE PATŘÍ VÁŠ KÓD */
+// 1)
+let mujVek = 2021 - 1989;
+print(mujVek);
+// 7)
+print(305 % 7);
 
 /*
   CONDITIONS - TASK:

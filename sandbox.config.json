@@ -2,5 +2,5 @@
   "infiniteLoopProtection": true,
   "hardReloadOnChange": true,
   "view": "browser",
-  "disableLogging": true
+  "disableLogging": false
 }
